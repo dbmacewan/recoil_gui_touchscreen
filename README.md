@@ -8,11 +8,11 @@
 
 **USB Mouse -> Teensy -> Computer**
 ## Images
-![Teensy 4.1 ILI9341](https://raw.githubusercontent.com/dbmacewan/recoil_gui_touchscreen/main/Images/IMG_0301.JPEG?token=GHSAT0AAAAAABRVJYLWR32ZIGXMLOG3UGYWYRBECJA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Main Menu](https://raw.githubusercontent.com/dbmacewan/recoil_gui_touchscreen/main/Images/IMG_0309.JPEG?token=GHSAT0AAAAAABRVJYLWSHODG4IPCTYWEYKAYRBEDMQ)
+![Teensy 4.1 ILI9341](/Images/IMG_0301.JPEG)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Main Menu](/Images/IMG_0309.JPEG)
 
-![Dropdown Menu](https://raw.githubusercontent.com/dbmacewan/recoil_gui_touchscreen/main/Images/IMG_0311.JPEG?token=GHSAT0AAAAAABRVJYLX7JKSUJGHREIKHX7KYRBEEIQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Toggle Button](https://raw.githubusercontent.com/dbmacewan/recoil_gui_touchscreen/main/Images/IMG_0315.JPEG?token=GHSAT0AAAAAABRVJYLX5IYBWGHWQSFB57LQYRBEEXA)
+![Dropdown Menu](/Images/IMG_0311.JPEG)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Toggle Button](/Images/IMG_0315.JPEG)
 
-![Arc Slider](https://raw.githubusercontent.com/dbmacewan/recoil_gui_touchscreen/main/Images/IMG_0316.JPEG?token=GHSAT0AAAAAABRVJYLXUHEEZMIIFM2YU7LQYRBEFCA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Keypad](https://raw.githubusercontent.com/dbmacewan/recoil_gui_touchscreen/main/Images/IMG_0319.JPEG?token=GHSAT0AAAAAABRVJYLWPKMWXBLGMTME3S36YRBEGCQ)
+![Arc Slider](/Images/IMG_0316.JPEG)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Keypad](/Images/IMG_0319.JPEG)
 ## How to build
 ### Hardware list
 - [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
@@ -29,3 +29,5 @@
 - Add randomization feature in recoil class and implement a slider for adjustment
 - Add non volatile storage (SD card) to save settings and load on startup
 - Add favorites buttons for equipment loadouts
+- Adjust some recoil tables
+- Add better support for semi automatic equipment in recoil class
